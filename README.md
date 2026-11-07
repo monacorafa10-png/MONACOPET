@@ -2,7 +2,7 @@
 
 Site de um petshop voltado para cães e gatos, desenvolvido para a disciplina **Fundamentos de Sistemas Web** (PUCRS Online), **Fase 1**.
 
-Autoria: Maryanne
+Autoria: Rafael Monaco
 
 ## Descrição
 
@@ -42,15 +42,3 @@ monacopet/
 - HTML5 (estrutura, títulos, listas, tabelas, links, imagens e elementos semânticos como `header`, `nav`, `main`, `section` e `footer`)
 - Git e GitHub para versionamento e hospedagem do código
 - GitHub Pages para publicação do site
-
-## Como visualizar
-
-Acesse o site pelo link do GitHub Pages deste repositório.
-
-Para ver localmente, baixe o repositório, mantenha a pasta `imagens` ao lado dos arquivos HTML e abra o `index.html` no navegador.
-
-## Observações
-
-- Nesta fase não há CSS, Bootstrap nem JavaScript. A estilização e a interatividade serão feitas na Fase 2.
-- Os nomes, preços, e-mail e telefone são fictícios, criados para fins acadêmicos.
-- As imagens são usadas apenas para ilustrar o trabalho acadêmico.
